@@ -1,3 +1,3 @@
-# OsirisTeam-website
+# OsirisTeam-website :eye_speech_bubble:
 
-## Osiris team official page :eye_speech_bubble:
+Pagina oficial del equipo Osiris :octocat:
